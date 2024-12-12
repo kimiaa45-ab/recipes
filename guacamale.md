@@ -2,5 +2,7 @@
 ## Ingredients
 * avacado
 * lime
-*salt
+* salt
 ### Instractions
+1. Peal avacado and remove stone
+2.  mash the avacado
